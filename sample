@@ -1,0 +1,6 @@
+echo "# akhil_anu" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/akhildevr/akhil_anu.git
+git push -u origin master
